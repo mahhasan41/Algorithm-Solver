@@ -14,7 +14,7 @@ This project is ideal for educational purposes, algorithm visualization, and und
   * **Breadth-First Search (BFS)**
   * **Depth-First Search (DFS)**
   * **Dijkstra’s Shortest Path**
-  * **Bellman-Ford Algorithm**
+  * **Floyd Warshall Algorithm**
 * 🖥️ Simple command-line interface or GUI (if implemented).
 * 📄 Logs or displays step-by-step algorithm execution.
 
@@ -23,7 +23,7 @@ This project is ideal for educational purposes, algorithm visualization, and und
 * **BFS (Breadth-First Search)**: Explores nodes level-by-level; great for unweighted shortest paths and connectivity checks.
 * **DFS (Depth-First Search)**: Explores deeply before backtracking; useful for detecting cycles or connected components.
 * **Dijkstra’s Algorithm**: Efficient for finding the shortest path in **weighted** graphs with **non-negative** edge weights.
-* **Bellman-Ford Algorithm**: Works even with **negative weights**, and detects **negative weight cycles**.
+* **Floyd Warshall Algorithm**: Works even with **negative weights**, and detects **negative weight cycles**.
 
 
 ## 📈 Example Use Cases
