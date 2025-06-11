@@ -1,6 +1,6 @@
 # 📊 Java Graph Algorithm Solver
 
-A Java-based project that allows users to create and manipulate graphs (weighted or unweighted), and run various graph traversal and shortest path algorithms like BFS, DFS, Dijkstra, and Bellman-Ford.
+A Java-based project that allows users to create and manipulate graphs (weighted or unweighted), and run various graph traversal and shortest path algorithms like BFS, DFS, Dijkstra, and Floyd Warshall.
 
 This project is ideal for educational purposes, algorithm visualization, and understanding graph data structures.
 
